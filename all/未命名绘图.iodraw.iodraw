@@ -91,7 +91,7 @@
           <mxGeometry x="391" y="2059" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="W3V6BVzCzK6TLRt_7PtJ-23" value="输出单词记号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1288" width="157" height="49" as="geometry" />
+          <mxGeometry x="580" y="2140" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="W3V6BVzCzK6TLRt_7PtJ-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="W3V6BVzCzK6TLRt_7PtJ-12" target="W3V6BVzCzK6TLRt_7PtJ-13">
           <mxGeometry relative="1" as="geometry">
@@ -175,6 +175,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="494" y="2133" />
+              <mxPoint x="550" y="2150" />
             </Array>
             <mxPoint x="600" y="2161.4300000000003" as="targetPoint" />
           </mxGeometry>
