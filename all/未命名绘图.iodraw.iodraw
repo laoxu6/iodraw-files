@@ -72,8 +72,8 @@
         <mxCell id="W3V6BVzCzK6TLRt_7PtJ-55" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="W3V6BVzCzK6TLRt_7PtJ-42" target="W3V6BVzCzK6TLRt_7PtJ-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="310" y="470" />
-              <mxPoint x="350" y="490" />
+              <mxPoint x="320" y="510" />
+              <mxPoint x="340" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -128,7 +128,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="680" y="830" />
-              <mxPoint x="745" y="411" />
+              <mxPoint x="640" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
