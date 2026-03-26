@@ -17,7 +17,7 @@
           <mxGeometry x="353" y="727" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="W3V6BVzCzK6TLRt_7PtJ-42" value="到文件尾？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="178" y="826" width="129" height="129" as="geometry" />
+          <mxGeometry x="131" y="800" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="W3V6BVzCzK6TLRt_7PtJ-43" value="关闭文件，程序结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="32" y="1068" width="205" height="49" as="geometry" />
