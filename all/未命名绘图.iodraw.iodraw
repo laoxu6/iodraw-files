@@ -100,15 +100,13 @@
         </mxCell>
         <mxCell id="W3V6BVzCzK6TLRt_7PtJ-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.2;rounded=0;" edge="1" parent="1" source="W3V6BVzCzK6TLRt_7PtJ-45" target="W3V6BVzCzK6TLRt_7PtJ-48">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="135" y="914" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W3V6BVzCzK6TLRt_7PtJ-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.24;entryY=0;rounded=0;" edge="1" parent="1" source="W3V6BVzCzK6TLRt_7PtJ-46" target="W3V6BVzCzK6TLRt_7PtJ-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="375" y="914" />
+              <mxPoint x="320" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
