@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="qk2D1A_RmLKqAPS7hIJv">
-    <mxGraphModel dx="2049" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,10 +20,10 @@
           <mxGeometry x="120" y="420" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="W3V6BVzCzK6TLRt_7PtJ-43" value="关闭文件，程序结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="52" y="678" width="205" height="49" as="geometry" />
+          <mxGeometry x="-40" y="610" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="W3V6BVzCzK6TLRt_7PtJ-44" value="字符类型？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="307" y="638" width="129" height="129" as="geometry" />
+          <mxGeometry x="300" y="560" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="W3V6BVzCzK6TLRt_7PtJ-45" value="调用字母处理函数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="840" width="190" height="49" as="geometry" />
@@ -72,6 +72,7 @@
         <mxCell id="W3V6BVzCzK6TLRt_7PtJ-55" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="W3V6BVzCzK6TLRt_7PtJ-42" target="W3V6BVzCzK6TLRt_7PtJ-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="310" y="470" />
               <mxPoint x="371" y="602" />
             </Array>
           </mxGeometry>
